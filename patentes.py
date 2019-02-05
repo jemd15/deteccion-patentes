@@ -1,3 +1,4 @@
+# encoding: utf-8
 import SimpleCV
 display = SimpleCV.Display() #crear la ventana para mostrar la imagen
 cam = SimpleCV.Camera(1) # inicializar la camara
